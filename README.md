@@ -18,15 +18,12 @@
 
 ###
 
-<div align="left">
-   <ul align="left>
-     <li><strong>Sleek Design: </strong> The website boasts a sleek and sophisticated design with clean lines and minimalist aesthetics.</li>
-     <li><strong>Responsive Layout: </strong> Built with responsiveness in mind, the website ensures seamless browsing on desktops, tablets, and mobile devices.</li>
-     <li><strong>Interactive Animations: </strong> Engage visitors with captivating animations and transitions that enhance user engagement and immersion.</li>
-     <li><strong>Portfolio Showcase: </strong> Showcase your work and projects with dedicated sections for easy navigation and exploration of your creative portfolio.</li>
-     <li><strong>Contact Form Integration: </strong> Seamlessly integrate a contact form that enables visitors to reach out and connect with you directly.</li>
-  </ul>
-</div>
+<p>Sleek Design: The website boasts a sleek and sophisticated design with clean lines and minimalist aesthetics.</p>
+<p>Responsive Layout:  Built with responsiveness in mind, the website ensures seamless browsing on desktops, tablets, and mobile devices.</p>
+<p>Interactive Animations: Engage visitors with captivating animations and transitions that enhance user engagement and immersion.</p>
+<p>Portfolio Showcase: Showcase your work and projects with dedicated sections for easy navigation and exploration of your creative portfolio.</p>
+<p>Contact Form Integration: Seamlessly integrate a contact form that enables visitors to reach out and connect with you directly.</p>
+
 
 ###
 
@@ -45,12 +42,9 @@ cd creative-portfolio-website</p>
 
 ###
 
-<div align="left">
-   <ul align="left>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>JS</li>
-  </ul>
-</div>
+<p>->HTML</p>
+<p>->CSS</p>
+<p>->JS</p>
+
 
 ###
